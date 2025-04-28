@@ -63,4 +63,4 @@ The goal is to create a tool that supports focused, consistent work habits witho
 
 ## Author
 
-I’m a Master’s student in Industrial Design Engineering, passionate about HCI, UX/UI, and creating user-centered products across tech and design.
+Anna Papanakli
