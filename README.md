@@ -4,14 +4,10 @@
 ## Overview
 
 Start date: 16th April 2025
-Currently **in progress**. 
+Currently **in progress**. Working on feature 1. 
 
-**Study Hub** is a productivity platform designed to help users plan, organize, and track their studies effectively.  
-
-Study Hub is designed to help students manage their assignments, organize tasks, plan their academic careers, and discover growth opportunities — all in one place.
-Inspired by tools like ClickUp but tailored for agile student life, the Hub aims to transform how students interact with their academic responsibilities. Academic websites and hubs are not up to date with the use of AI, especially chatbots, students use them daily but they are not tailored to their use case.
-
-This project is currently a work in progress, with starting functionality implemented and future features and enhancements in progress.
+A productivity platform designed to help users manage and complete their assignments, plan their academic careers, and discover growth opportunities — all in one place.
+Inspired by tools like ClickUp but tailored for agile student life, the Hub aims to transform how students interact with their academic responsibilities. Academic websites and hubs are not up to date with the use of AI tools, especially chatbots, yet students use them daily, this hub will make use of them by completing the tasks tools like ChatGPT are already being used for, but bypassing all the prompting.
 
 ## MVP Core Goals
 
