@@ -1,6 +1,6 @@
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     if (message.action === "sendToHub") {
-      fetch("https://35cefb39b151.ngrok.app/save-to-hub", {
+      fetch("https://yourngroklink/save-to-hub", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(message.payload)
